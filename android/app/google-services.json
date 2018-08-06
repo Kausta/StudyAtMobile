@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "875827568684",
+    "firebase_url": "https://studyat-211914.firebaseio.com",
+    "project_id": "studyat-211914",
+    "storage_bucket": "studyat-211914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875827568684:android:892f07af46b6baa9",
+        "android_client_info": {
+          "package_name": "com.studyatmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875827568684-2m34c1pqovaq3ij7gqh616nbskms85b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl8DnVhMtdwQrmjkUMYCWIk1UNLNRR7Xk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
